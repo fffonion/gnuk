@@ -1,3 +1,4 @@
 [submodule "chopstx"]
 	path = chopstx
-	url = ../../chopstx/chopstx.git
+	url = https://github.com/fffonion/chopstx.git
+	branch = efm32
